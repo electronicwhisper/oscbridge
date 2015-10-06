@@ -1,0 +1,10 @@
+<script>
+
+ws = new WebSocket("ws://localhost:8080/")
+
+ws.onmessage = function (event) {
+  var data = JSON.parse(event.data);
+  console.log(data);
+}
+
+</script>
