@@ -8,7 +8,7 @@ Run
 
 You'll need coffeescript too.
 
-    npm install -g coffeescript
+    npm install -g coffee-script
 
 # Usage
 

@@ -1,0 +1,24 @@
+{
+  "name": "oscbridge",
+  "version": "1.0.0",
+  "description": "Creates a bridge between OSC and websocket so that browser applications can hear OSC messages.",
+  "main": "index.js",
+  "dependencies": {
+    "osc": "^1.4.0",
+    "ws": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electronicwhisper/oscbridge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electronicwhisper/oscbridge/issues"
+  },
+  "homepage": "https://github.com/electronicwhisper/oscbridge#readme"
+}
